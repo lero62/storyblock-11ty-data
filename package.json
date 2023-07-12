@@ -1,5 +1,5 @@
 {
-  "name": "storyblok-11ty-2",
+  "name": "storyblok-11ty-data",
   "version": "1.6.0",
   "description": "Import Stories and Datasources from Storyblok to 11ty as data objects or static files and it adds custom tags for blocks parsing.",
   "main": "index.js",
@@ -12,8 +12,8 @@
   ],
   "deprecated": false,
   "author": {
-    "name": "Christian Zoppi",
-    "email": "me@christianzoppi.com"
+    "name": "Petro Orel",
+    "email": "weblero2020@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
@@ -22,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lero62/storyblok-11ty-2"
+    "url": "git+https://github.com/lero62/storyblok-11ty-data"
   },
   "bugs": {
-    "url": "https://github.com/lero62/storyblok-11ty-2/issues"
+    "url": "https://github.com/lero62/storyblok-11ty-data/issues"
   }
 }
